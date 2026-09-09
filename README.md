@@ -200,7 +200,7 @@ http://localhost:8000/docs
 
 2nd Year BCA Student | AI Full Stack Developer
 
-**Skills:** React.js • Python • FastAPI • REST APIs • MySQL • SQLAlchemy • Pydantic • JavaScript • Git
+**Skills:** AI-Powered (React.js) • Python • FastAPI • REST APIs • MySQL • SQLAlchemy • Pydantic • JavaScript • Git
 
 ---
 
