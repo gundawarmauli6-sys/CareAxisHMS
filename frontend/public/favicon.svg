@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="hms-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e40af" />
+      <stop offset="40%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Rounded Square Background -->
+  <rect width="512" height="512" rx="128" fill="url(#hms-gradient)" />
+  
+  <!-- Medical Cross -->
+  <path d="M216 112h80v104h104v80H296v104h-80V296H112v-80h104V112z" fill="#ffffff" />
+  
+  <!-- Heartbeat/ECG Pulse Line -->
+  <path d="M128 256h64l20-40 28 72 28-48 16 16h100" 
+        stroke="#2563eb" 
+        stroke-width="22" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        fill="none" />
+</svg>

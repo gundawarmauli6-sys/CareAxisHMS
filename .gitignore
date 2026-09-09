@@ -1,0 +1,26 @@
+# Python
+venv/
+**/venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+**/.env
+
+# Node
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+# MySQL database files
+mysqldata/
+**/mysqldata/
