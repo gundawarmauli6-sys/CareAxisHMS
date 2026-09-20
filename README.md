@@ -1,4 +1,4 @@
-# 🏥 CareAxis HMS — Hospital Management System
+# 🏥 CareAxis HMS - Hospital Management System
 
 A full-stack **Hospital Management System** for registering, managing, searching, and maintaining patient records.
 
@@ -6,25 +6,25 @@ Built with AI Powered (**React.js), FastAPI, and MySQL**, CareAxis HMS provides 
 
 ---
 
-## ✨ Features
+## Features
 
-* 👤 Patient registration
-* 📋 View all patient records
-* 📅 View today's patients
-* 🗓️ Filter records by date and month
-* 🔎 Search patients by name or phone
-* 👁️ View detailed patient information
-* ✏️ Update patient records
-* 🗑️ Delete patient records
-* 📊 Automatic BMI calculation
-* ✅ Form validation
-* 🔔 User feedback for CRUD operations
-* 🔌 REST API integration
-* 🗄️ MySQL database persistence
+* Patient registration
+* View all patient records
+* View today's patients
+* Filter records by date and month
+* Search patients by name or phone
+* View detailed patient information
+* Update patient records
+* Delete patient records
+* Automatic BMI calculation
+* Form validation
+* User feedback for CRUD operations
+* REST API integration
+* MySQL database persistence
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology   | Purpose           |
 | ------------ | ----------------- |
@@ -42,7 +42,7 @@ Built with AI Powered (**React.js), FastAPI, and MySQL**, CareAxis HMS provides 
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```text
 React.js
@@ -61,7 +61,7 @@ Patient Records
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 HMS/
@@ -108,7 +108,7 @@ HMS/
 
 ---
 
-## 🔌 REST API
+## REST API
 
 **Base URL:** `http://localhost:8000`
 
@@ -131,7 +131,7 @@ http://localhost:8000/docs
 
 ---
 
-## 🗄️ Database
+## Database
 
 CareAxis HMS uses **MySQL** with a `patients` table.
 
@@ -157,7 +157,7 @@ BMI is calculated dynamically using the patient's height and weight.
 
 ---
 
-## 🧪 Testing
+## Testing
 
 The API can be tested using FastAPI's interactive Swagger documentation:
 
@@ -176,17 +176,17 @@ http://localhost:8000/docs
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
-* 🔐 Authentication & Authorization
-* 📅 Appointment Scheduling
-* 💊 Prescription Management
-* 💰 Billing & Payments
-* 🛏️ Bed Management
+* Authentication & Authorization
+* Appointment Scheduling
+* Prescription Management
+* Billing & Payments
+* Bed Management
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 * Digitize and centralize patient records
 * Simplify patient search and management
@@ -194,7 +194,7 @@ http://localhost:8000/docs
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 **Mauli Gundawar**
 
